@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmyn13
 - 👀 I’m interested in ...Dynamo learning, automation, ui
-- 🌱 I’m currently learning ...Dynamo 
+- 🌱 I’m currently learning ...Dynamo, C# 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
